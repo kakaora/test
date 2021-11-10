@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This site has all the information to start reading my blog.
 
-Maybe say a some things about yourself.
+I am a new student in bioinformatics with an interest in machine learning methods.
 
-Or maybe what you plan to blog about.
+I will be thinking about what I will focus on in this blog.
